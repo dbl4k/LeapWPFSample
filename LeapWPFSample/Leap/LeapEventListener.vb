@@ -1,5 +1,5 @@
 ﻿Imports Leap
-Imports ev = LeapThingy.LeapEvents
+Imports ev = LeapWPFSample.LeapEvents
 
 Public Class LeapEventListener
     Inherits Leap.Listener
